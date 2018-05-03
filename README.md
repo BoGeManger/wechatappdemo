@@ -15,4 +15,3 @@
 
 开发工具: https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1474644089359
 
-Cover by https://github.com/xwartz/wechat-app-demo

@@ -25,6 +25,11 @@
                     <navigator url="component-pages/wx-swiper/wx-swiper" class="widget">
                         <text class="widget__name">swiper</text>
                         <image class="widget__arrow" src="resources/arrow.png" background-size="cover" />
+                        <view class="widget__line"></view>
+                    </navigator>
+                    <navigator url="component-pages/wx-movable-view/wx-movable-view" class="widget">
+                        <text class="widget__name">movable-view</text>
+                        <image class="widget__arrow" src="resources/arrow.png" background-size="cover" />
                     </navigator>
                 </view>
             </view>
@@ -56,6 +61,11 @@
                     </navigator>
                     <navigator url="component-pages/wx-progress/wx-progress" class="widget">
                         <text class="widget__name">progress</text>
+                        <image class="widget__arrow" src="resources/arrow.png" background-size="cover" />
+                        <view class="widget__line"></view>
+                    </navigator>
+                    <navigator url="component-pages/wx-rich-text/wx-rich-text" class="widget">
+                        <text class="widget__name">rich-text</text>
                         <image class="widget__arrow" src="resources/arrow.png" background-size="cover" />
                     </navigator>
                 </view>
